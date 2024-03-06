@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/maartenqh"><img src="./devcard.png" width="356" alt="Maarten's Dev Card"/></a>
+<a href="https://app.daily.dev/maartenqh"><img src="./devcard.png" width="100%" alt="Maarten's Dev Card"/></a>
 
 <!--
 **MaartenQHuijser/MaartenQHuijser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
